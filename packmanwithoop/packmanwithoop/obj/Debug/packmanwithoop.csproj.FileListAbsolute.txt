@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\bin\Debug\packmanwithoop.exe.config
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\bin\Debug\packmanwithoop.exe
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\bin\Debug\packmanwithoop.pdb
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\obj\Debug\packmanwithoop.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\obj\Debug\packmanwithoop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\obj\Debug\packmanwithoop.exe
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\obj\Debug\packmanwithoop.pdb
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\bin\Debug\EZInput.dll
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\bin\Debug\EZInput.xml
+C:\Users\DELL\source\repos\packmanwithoop\packmanwithoop\obj\Debug\packmanwithoop.csproj.CopyComplete
